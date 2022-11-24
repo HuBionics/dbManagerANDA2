@@ -1,0 +1,83 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 1342
+ETag: W/"53e-z2waKSLJCu9jNkp/s5Gr/mw+ON0"
+Date: Thu,
+24 Nov 2022 02: 22: 16 GMT
+Connection: close
+
+[
+    {
+        "lastname": "bermudez",
+        "type": "",
+        "password": "123456",
+        "email": "crey@gmaiul.com",
+        "dateBirth": {
+            "_seconds": 946944000,
+            "_nanoseconds": 0
+        },
+        "plan": "0",
+        "country": "Colombia",
+        "cellphoneNumber": "1234567890",
+        "typeLogin": "",
+        "urlImage": "",
+        "weight": 0,
+        "dateCreation": {
+            "_seconds": 1668383453,
+            "_nanoseconds": 62000000
+        },
+        "id": "4vu64BJqQWaOdvvPwq3k2AhzJSw2",
+        "gender": "Male",
+        "name": "andres",
+        "doctorCertificate": false
+    },
+    {
+        "urlImage": "https://firebasestorage.googleapis.com/v0/b/anda2-bda8a.appspot.com/o/users%2FDOabHYmAwVMtitMbKHeUWwEk6Cm2%2Fprofile_image?alt=media&token=d4962c65-b432-46ba-814e-76b31f2410f5",
+        "doctorCertificate": false,
+        "email": "crey864@gmail.com",
+        "password": "123456789",
+        "id": "DOabHYmAwVMtitMbKHeUWwEk6Cm2",
+        "lastname": "rey",
+        "gender": "Female",
+        "plan": "1",
+        "type": "",
+        "country": "Colombia",
+        "dateCreation": {
+            "_seconds": 1666790815,
+            "_nanoseconds": 221000000
+        },
+        "cellphoneNumber": "1234567890",
+        "dateBirth": {
+            "_seconds": 905007600,
+            "_nanoseconds": 0
+        },
+        "typeLogin": "",
+        "name": "Carlos",
+        "weight": 0
+    },
+    {
+        "typeLogin": "",
+        "cellphoneNumber": "",
+        "gender": "",
+        "plan": "1",
+        "type": "",
+        "id": "XVEMZPKqZJWU6CLtRJu7WUVyTEq2",
+        "urlImage": "",
+        "doctorCertificate": false,
+        "name": "carlos",
+        "password": "123456",
+        "email": "crey@gmail.com",
+        "dateCreation": {
+            "_seconds": 1666720604,
+            "_nanoseconds": 891000000
+        },
+        "dateBirth": {
+            "_seconds": 1666720604,
+            "_nanoseconds": 891000000
+        },
+        "country": "Japon",
+        "weight": 0,
+        "lastname": "rey"
+    }
+]
