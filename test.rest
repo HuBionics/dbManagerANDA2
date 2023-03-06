@@ -22,22 +22,22 @@ Content-Type: application/json
         100,
         110
     ],
-    "description": "Tango description",
-    "gender": "tango",
+    "description": "Basic Rhythm",
+    "gender": "basic",
     "id": "",
     "date_creation":"",
     "isNew": true,
-    "name": "Tango 7",
-    "url": "https://firebasestorage.googleapis.com/v0/b/anda2-bda8a.appspot.com/o/sounds%2Ftango%2F7%2F7%20TANGO%20C80.mp3?alt=media&token=b22dc75c-1a6e-4d4a-8d7a-594c1f04c8ea",
+    "name": "Basic Rhythm 1",
+    "url": "https://firebasestorage.googleapis.com/v0/b/anda2-bda8a.appspot.com/o/sounds%2Fpalito%2FCLIP%201.mp3?alt=media&token=f5ab189d-51c1-4f6b-be29-044e08d630b0",
     "urls": {
-        "80": "https://firebasestorage.googleapis.com/v0/b/anda2-bda8a.appspot.com/o/sounds%2Ftango%2F7%2F7%20TANGO%2080.mp3?alt=media&token=0b1674dd-575a-4c47-8811-8fbcaadc4dd9",
-        "90": "https://firebasestorage.googleapis.com/v0/b/anda2-bda8a.appspot.com/o/sounds%2Ftango%2F7%2F7%20TANGO%2090.mp3?alt=media&token=9083d929-47d9-40a2-ac5b-75b9fef07dcb",
-        "100": "https://firebasestorage.googleapis.com/v0/b/anda2-bda8a.appspot.com/o/sounds%2Ftango%2F7%2F7%20TANGO%20100.mp3?alt=media&token=f9fef88b-5ab0-4db4-9ef5-3b67c16e565c",
-        "110": "https://firebasestorage.googleapis.com/v0/b/anda2-bda8a.appspot.com/o/sounds%2Ftango%2F7%2F7%20TANGO%20110.mp3?alt=media&token=f21ebd52-5a8d-4ff8-80e3-b6e460176395",
-        "c80": "https://firebasestorage.googleapis.com/v0/b/anda2-bda8a.appspot.com/o/sounds%2Ftango%2F7%2F7%20TANGO%20C80.mp3?alt=media&token=b22dc75c-1a6e-4d4a-8d7a-594c1f04c8ea",
-        "c90": "https://firebasestorage.googleapis.com/v0/b/anda2-bda8a.appspot.com/o/sounds%2Ftango%2F7%2F7%20TANGO%20C90.mp3?alt=media&token=230f9d9b-bdb8-4476-8085-75e7cc550170",
-        "c100": "https://firebasestorage.googleapis.com/v0/b/anda2-bda8a.appspot.com/o/sounds%2Ftango%2F7%2F7%20TANGO%20C100.mp3?alt=media&token=b95fb55d-b006-4056-b0f4-8c4f3bb22057",
-        "c110": "https://firebasestorage.googleapis.com/v0/b/anda2-bda8a.appspot.com/o/sounds%2Ftango%2F7%2F7%20TANGO%20C110.mp3?alt=media&token=1512e130-f426-4d06-8697-57ff9626a6ce"
+        "80": "https://firebasestorage.googleapis.com/v0/b/anda2-bda8a.appspot.com/o/sounds%2Fpalito%2FCLIP%201.mp3?alt=media&token=f5ab189d-51c1-4f6b-be29-044e08d630b0",
+        "90": "https://firebasestorage.googleapis.com/v0/b/anda2-bda8a.appspot.com/o/sounds%2Fpalito%2FCLIP%202.mp3?alt=media&token=7bb6d262-a52d-4db2-90eb-3d62a44061cf",
+        "100": "https://firebasestorage.googleapis.com/v0/b/anda2-bda8a.appspot.com/o/sounds%2Fpalito%2FCLIP%203.mp3?alt=media&token=202ec5d0-2ba6-4a97-9b20-7ea4670396e3",
+        "110": "https://firebasestorage.googleapis.com/v0/b/anda2-bda8a.appspot.com/o/sounds%2Fpalito%2FCLIP%204.mp3?alt=media&token=26959957-84dd-4e24-ac50-2b2e9903fcd2",
+        "c80": "https://firebasestorage.googleapis.com/v0/b/anda2-bda8a.appspot.com/o/sounds%2Fpalito%2FCLIP%201.mp3?alt=media&token=f5ab189d-51c1-4f6b-be29-044e08d630b0",
+        "c90": "https://firebasestorage.googleapis.com/v0/b/anda2-bda8a.appspot.com/o/sounds%2Fpalito%2FCLIP%202.mp3?alt=media&token=7bb6d262-a52d-4db2-90eb-3d62a44061cf",
+        "c100": "https://firebasestorage.googleapis.com/v0/b/anda2-bda8a.appspot.com/o/sounds%2Fpalito%2FCLIP%203.mp3?alt=media&token=202ec5d0-2ba6-4a97-9b20-7ea4670396e3",
+        "c110": "https://firebasestorage.googleapis.com/v0/b/anda2-bda8a.appspot.com/o/sounds%2Fpalito%2FCLIP%204.mp3?alt=media&token=26959957-84dd-4e24-ac50-2b2e9903fcd2"
     }
 }
 

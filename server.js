@@ -29,7 +29,6 @@ app.get('/songs', async (req, res) => {
         data.push(doc.data())
     });
     res.status(200).send(data)
-
 })
 
 app.get('/users', async (req, res) => {
